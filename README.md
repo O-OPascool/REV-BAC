@@ -5,6 +5,8 @@ Des quiz dynamiques, responsive et animés pour tester vos connaissances et cibl
 
 > **En ligne :** https://rev-bac.vercel.app/
 
+<img src="Assets/home.png" width="400" alt="Site">
+
 ---
 
 ## 📚 Fonctionnalités principales
